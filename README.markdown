@@ -101,7 +101,7 @@ More provides a set of Rake tasks to help manage your CSS files.
 
 To parse all LESS files and save the resulting CSS files to the destination path, run:
 
-	$ rake more:generate
+	$ rake more:parse
 
 To delete all generated CSS files, run:
 
